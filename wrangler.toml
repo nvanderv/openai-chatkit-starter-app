@@ -6,4 +6,4 @@ name = "my-pages-functions"
 compatibility_date = "2024-09-23" 
 
 # This is the line that enables the Node.js API polyfills
-compatibility_flags = [ "nodejs_compat" ]
+compatibility_flags = ["nodejs_compat"]
