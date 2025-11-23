@@ -1,9 +1,0 @@
-# Enables Node.js compatibility for the Functions/Workers
-# Name is arbitrary for Pages projects, but required for the file to be valid.
-name = "my-pages-functions" 
-
-# Required: Must be a recent date.
-compatibility_date = "2024-09-23" 
-
-# This is the line that enables the Node.js API polyfills
-compatibility_flags = ["nodejs_compat"]
